@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-Oreofe
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Html/CSS/JavaScript
+- 🌱 I’m currently learning Python Libraries
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me 08172770501
 
