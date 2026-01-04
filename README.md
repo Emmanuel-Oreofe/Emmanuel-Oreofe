@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-Oreofe
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Python Libraries
+- 🌱 I’m currently learning Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me 09032912785, olaleyeemmanueloreofe@gmail.com
 
